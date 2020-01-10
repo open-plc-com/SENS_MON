@@ -1,6 +1,6 @@
 /*
 	Name:			sens_mon.cpp
-	Purpose:		MIOC
+	Purpose:		SENS_MON
 	Author:			www.open-plc.com
 	Created:		2020/01
 	Modified by:
